@@ -1,0 +1,5 @@
+* text=auto
+
+# Treat model files as binary to avoid broken diffs and line-ending normalization.
+*.h5 binary
+*.keras binary
